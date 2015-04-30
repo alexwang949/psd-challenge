@@ -1,0 +1,102 @@
+html {
+	font-family: 'Avenir';
+}
+
+
+nav {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1300px;
+	height: 6546px;
+	z-index: 97;
+}
+
+.ceros-logo {
+	position: absolute;
+	left: 115px;
+	top: 27px;
+}
+
+.text-link-style {
+	text-decoration: none;
+	color: rgba(115, 115, 115, 1);
+}
+
+.text-link-style:hover {
+	opacity: .8;
+}
+
+.product-link {
+	position: absolute;
+	left: 584px;
+	top: 40px;
+}
+
+.examples-link {
+	position: absolute;
+	left: 692px;
+	top: 40px;
+}
+
+.services-link {
+	position: absolute;
+	left: 807px;
+	top: 40px;
+}
+
+.see-the-magic-button {
+	position: absolute;
+	left: 910px;
+	top: 28px;
+	width: 210px;
+	height: 42px;
+	z-index: 86;
+	background-color: rgba(71, 203, 203, 1);
+	vertical-align: center;
+	border-radius: 30px;
+	color: white;
+}
+
+.see-the-magic-button:hover {
+	cursor: pointer;
+	opacity: .8;
+}
+
+.see-the-magic-button p {
+	padding-top: 10.5px;
+	text-align: center;
+}
+
+.hamburger-nav {
+	position: absolute;
+	left: 1170px;
+	top: 40px;
+}
+
+.hamburger-nav:hover {
+	opacity: .8;
+	cursor: pointer;
+}
+
+hr {
+	position: absolute;
+	top: 88px;
+	width: 100%;
+	background-color: rgba(229, 229, 229, 1);
+	border: none;
+	height: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
