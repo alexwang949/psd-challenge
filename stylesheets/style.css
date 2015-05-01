@@ -164,10 +164,10 @@ nav {
 .splash-background {
   background-image: url("../images/ipad-splash_02.png");
   position: absolute;
-  left: 0px;
+  left: 30px;
   top: 400px;
   width: 1300px;
-  height: 1517px;
+  height: 900px;
   z-index: 80;
   background-repeat: no-repeat;
 }
@@ -244,5 +244,49 @@ nav {
 	z-index: 50;
 }
 
+/* create engaging ***********************/
 
+.create-engaging h3 {
+	margin-top: 90px;
+    margin-left: 470.745px;
+    font-size: 30.848px;
+    color: rgb(53, 59, 82);
+    line-height: 1.215;
+    text-align: left;
+    -moz-transform: matrix( 1.1046253457882,0,0,1.10217225385059,0,0);
+    -webkit-transform: matrix( 1.1046253457882,0,0,1.10217225385059,0,0);
+    -ms-transform: matrix( 1.1046253457882,0,0,1.10217225385059,0,0);
+    z-index: 44;
+}
 
+.create-engaging p {
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.702);
+  line-height: 1.556;
+  text-align: center;
+  margin-left: 319.169px;
+  margin-top: 70px;
+  width: 645px;
+  height: 75px;
+  z-index: 43;
+}
+
+.inspector {
+	background-image: url("../images/inspector.png");
+  	margin-left: 231px;
+  	margin-top: 126px;
+  	width: 280px;
+  	height: 347px;
+  	z-index: 39;
+}
+
+.flower {
+   background-image: url("../images/flower.jpg");
+   background-repeat: no-repeat;
+   position: absolute;
+   left: 580px;
+   top: 420px;
+   width: 560px;
+   height: 442px;
+   z-index: 40;
+}
