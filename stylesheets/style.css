@@ -290,3 +290,138 @@ nav {
    height: 442px;
    z-index: 40;
 }
+
+/* every-interaction ****************/
+.every-interaction h3 {
+	font-size: 30.848px;
+	color: rgb(53, 59, 82);
+	line-height: 1.215;
+	text-align: left;
+	-moz-transform: matrix( 1.1046253457882,0,0,1.10217225385059,0,0);
+	-webkit-transform: matrix( 1.1046253457882,0,0,1.10217225385059,0,0);
+	-ms-transform: matrix( 1.1046253457882,0,0,1.10217225385059,0,0);
+	margin-left: 510.831px;
+	margin-top: 90px;
+	z-index: 42;
+}
+
+.every-interaction p {
+	font-size: 18px;
+	color: rgba(0, 0, 0, 0.702);
+	line-height: 1.556;
+	text-align: center;
+	margin-left: 319.169px;
+	margin-top: 70px;
+	width: 645px;
+	height: 75px;
+	z-index: 43;
+}
+
+.laptop {
+	margin-left: 0;
+	margin-top: 40px;
+	width: 100%;
+	height: 1300px;
+	background-image: url('../images/laptop-typography.png');
+	background-repeat: no-repeat;
+	z-index: -20;
+}
+
+.typography h2 {
+	font-size: 30.848px;
+	font-family: "Bodoni 72";
+	color: rgb(20, 196, 222);
+	font-weight: bold;
+	line-height: 1.215;
+	text-align: left;
+	-moz-transform: matrix( 4.05529294096394,0,0,4.04628716678353,0,0);
+	-webkit-transform: matrix( 4.05529294096394,0,0,4.04628716678353,0,0);
+	-ms-transform: matrix( 4.05529294096394,0,0,4.04628716678353,0,0);
+	position: absolute;
+	left: 923.543px;
+	top: 1240.26px;
+	z-index: 25;
+}
+
+.typography h3 {
+	font-size: 30.848px;
+	font-family: "Avenir";
+	color: red;
+	color: rgb(53, 59, 82);
+	line-height: 1.215;
+	text-align: left;
+	-moz-transform: matrix( 1.22974348722331,0,0,1.22701253971668,0,0);
+	-webkit-transform: matrix( 1.22974348722331,0,0,1.22701253971668,0,0);
+	-ms-transform: matrix( 1.22974348722331,0,0,1.22701253971668,0,0);
+	position: absolute;
+	left: 355.174px;
+	top: 1250px;
+	z-index: 200;
+	width: 20px;
+}
+
+.typography p {
+	position: absolute;
+	font-size: 18px;
+	color: rgba(53, 59, 82, 0.702);
+  	line-height: 1.556;
+ 	text-align: left;
+	top: 1380;
+	left: 545.174px;
+	width: 321px;
+}
+
+/* collaboration ****************/
+
+
+.collaboration h3 {
+	font-size: 30.848px;
+	color: rgb(53, 59, 82);
+	line-height: 1.215;
+	text-align: left;
+	-moz-transform: matrix( 1.1046253457882,0,0,1.10217225385059,0,0);
+	-webkit-transform: matrix( 1.1046253457882,0,0,1.10217225385059,0,0);
+	-ms-transform: matrix( 1.1046253457882,0,0,1.10217225385059,0,0);
+	margin-left: 580.831px;
+	margin-top: 90px;
+	z-index: 42;
+}
+
+.collaboration p {
+	font-size: 18px;
+	color: rgba(0, 0, 0, 0.702);
+	line-height: 1.556;
+	text-align: center;
+	margin-left: 319.169px;
+	margin-top: 70px;
+	width: 645px;
+	height: 75px;
+	z-index: 43;
+}
+
+.collaboration h4 {
+	font-size: 30.848px;
+	font-family: "Bodoni";
+	font-weight: 100;
+	color: rgb(0, 0, 0);
+	line-height: 1.215;
+	text-align: center;
+	-moz-transform: matrix( 4.35620007264466,0,0,4.35620007264463,0,0);
+	-webkit-transform: matrix( 4.35620007264466,0,0,4.35620007264463,0,0);
+	-ms-transform: matrix( 4.35620007264466,0,0,4.35620007264463,0,0);
+	z-index: 18;
+	margin-top: 130px;
+	margin-left: -380px;
+}
+
+.watch {
+	background-image: url("../images/watch.jpg");
+	background-repeat: no-repeat;
+	margin-left: 790px;
+	margin-top: -110px;
+	z-index: 17;
+	width: 600px;
+	height: 451px;
+
+}
+
